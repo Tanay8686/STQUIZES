@@ -1,5 +1,5 @@
 .head {
-    background-image: url(https://lh4.googleusercontent.com/7_OQ2AS3ot_7gxfiaHfbqPKr9PpHsgOSfZigtCAsVSScprrjLlbmYA4ejJw7otuAazcwgkx6XPawAcgA1wbseg=w16383);
+    background-image: url('Header-theme.gif');
     background-size: cover; 
     background-position: center center;
     height: 360px;
@@ -14,7 +14,7 @@
 .contact-us-heading {background-color: rgba(18, 93, 122, 1);overflow: hidden;height: 100px;}
 .contact-us-heading-text {color: black;font-family: Georgia, 'Times New Roman', Times, serif;font-size: 200%;text-align: center;padding-top: 10px;}
 .phoneno, .email {text-align: center;font-family: Arial;font-size: 160%;}
-.last {background-color: rgba(0, 0, 0, 0.8);height: 180px;}
+.last {background-color: rgba(0, 0, 0, 0.8);height: 240px;}
 .developed {color: white;font-size: 120%;font-family: Arial, Helvetica, sans-serif;text-align: center;padding-top: 40px;}
 .copyright {color: white;font-size: 120%;font-family: Arial, Helvetica, sans-serif;text-align: center;}
 .creator {color: white;}
