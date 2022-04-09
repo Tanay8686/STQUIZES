@@ -27,6 +27,7 @@
 .about-site-box {display: flex;padding: 20px;align-items: center;}
 .quizzes-box {display: flex;padding: 20px;align-items: center;}
 .winner-list-box {display: flex;padding: 20px;align-items: center;}
+.contact-us-box {display: flex;padding: 20px;align-items: center;}
 .page-link {text-decoration: none;color: rgb(43, 55, 158);font-family: Arial, Helvetica, sans-serif;padding: 15px;}
 .img-link:hover {border: 2px inset black;}
 .page-link:hover {color: black;transition: .4s;}
